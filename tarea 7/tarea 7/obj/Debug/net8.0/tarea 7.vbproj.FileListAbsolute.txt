@@ -1,0 +1,14 @@
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\bin\Debug\net8.0\tarea 7.exe
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\bin\Debug\net8.0\tarea 7.deps.json
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\bin\Debug\net8.0\tarea 7.runtimeconfig.json
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\bin\Debug\net8.0\tarea 7.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\bin\Debug\net8.0\tarea 7.pdb
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.AssemblyInfoInputs.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.AssemblyInfo.vb
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.vbproj.CoreCompileInputs.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\refint\tarea 7.dll
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.pdb
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\tarea 7.genruntimeconfig.cache
+C:\Users\perez\OneDrive\Documents\Progra 092\tarea 7\tarea 7\obj\Debug\net8.0\ref\tarea 7.dll
